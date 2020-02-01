@@ -1,0 +1,10 @@
+# Created by .ignore support plugin (hsz.mobi)
+!/geckodriver.log
+.idea/.gitignore
+.idea/Hotwire_Adventurer.iml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+geckodriver.exe
+geckodriver.log
+venv/
